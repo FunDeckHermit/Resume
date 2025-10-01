@@ -1,0 +1,134 @@
+FaviconPath: img/favicon/
+BasicInfo:
+  FirstName: Roy
+  LastName: van Lierop
+  Photo: img/royhead2.webp
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +31 623 556 149
+    - Icon: fas fa-envelope
+      Info: royvan@lierop.zip
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://royvan.lierop.zip" target="_blank">royvan.lierop.zip</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Renkum, The Netherlands
+
+Profile: I am an Electronic Engineer with a passion for Open Source technologies and hands-on innovation. In my free time, I enjoy visiting my local hackerspace, where I work on creative projects like designing a PCB for the iconic Model-M keyboard. I’m always looking for ways to solve problems and contribute to meaningful projects in technology.
+
+Experience:
+  - Employer: Noldus Information Technology BV
+    Place: Wageningen, NL
+    Positions:
+      - Title: Senior Electronics Engineer
+        Date: May 2022 - Present
+        Details:
+          - Design of complex electronics for behaviour analysis in animals
+          - Guiding the production and certification of electronic products
+          - Programming of embedded microcontrollers using modern C++
+          - Writing/developing test scripts for HIL
+          - Working in an Agile team and writing requirements
+          - Training new employees
+        Badges: ['KiCAD', 'EMC', 'C++', 'Python', '.NET', 'Agile']
+      - Title: Software Developer
+        Date: May 2022 - Jan 2024
+        Details:
+          - Updating of legacy .NET Framework application to git/x64/.NET
+          - Maintaining of CI/CD pipelines using Azure DevOps
+        Badges: ['.NET', 'azure']
+  - Employer: Bever Car Products BV
+    Place: Andelst, NL
+    Positions:
+      - Title: R&D Engineer
+        Date: Sep 2019 - Apr 2022
+        Details:
+          - Development of motorvehicle mobility devices for the disabled
+          - Electronic design of motor controllers
+          - Creating graphical interfaces with business logic using Delphi
+          - Validating and testing of sensors
+          - Soldering of SMD parts
+        Badges: ['PADS', 'Delphi', 'C', 'git', 'OOP']
+  - Employer: Time Shift BV
+    Place: Arnhem, NL
+    Positions:
+      - Title: Lead Software Developer
+        Date: Jul 2018 - Aug 2019
+        Details:
+          - Development of Energy Management System (EMS) for stationary energy storage solutions
+          - Interfacing with inverters and battery management systems
+          - Creating multi-tenant VPN tunnels to access the EMS
+          - Storage of time-series telemetry using PostgreSQL received over TCP
+        Badges: ['Modbus', 'CAN', 'Python', 'Django', 'PostgreSQL']
+  - Employer: Batenburg Beenen
+    Place: Zwolle, NL
+    Positions:
+      - Title: Junior SCADA/MESS-Engineer
+        Date: May 2017 - Jun 2018
+        Details:
+          - Design of factory SCADA interfaces for operators
+          - Coupling of PLC system to SCADA, optimalisation using AutoHotkey
+          - Design and implementation of standalone printing application for a bakery
+          - Investigation of Power BI and using SQL Stored Procedures
+        Badges: ['HMI Design', 'NiceLabel', 'AutoHotkey', 'Power BI', 'PostgreSQL']
+Education:
+  - Course: BSc Electrical Engineering
+    Place: Hogeschool InHolland Alkmaar
+    Date: Sep 2013 - Apr 2017
+    Details: Specialised in Industrial Automation
+
+Skills:
+  - Family: Programming
+    Items:
+      - C++
+      - .NET
+      - Python
+      - SQL
+      - C#
+      - Bash
+  - Family: Protocols
+    Items:
+      - Modbus
+      - TCP/IP
+      - LIN
+      - CAN/CAN FD
+      - I2C/UART/SPI
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - CMake
+  - Family: Misc
+    Items:
+      - FreeRTOS
+      - Linux
+      - Networking
+      - Problem-Solving
+      - Teamwork
+      - Adaptability
+
+Languages:
+  - Name: Dutch
+    Level: Native
+  - Name: English
+    Level: C2
+  - Name: German
+    Level: A1
+
+Diplomas:
+  - Bedrijfshulpverlening (BHV)
+  - Toegepaste EMC ontwerptechniek
+  - Embedded Systems - Shape the World (2021)
+  - Delphi VCL Essentials (2019)
+
+Interests:
+  - Electronics
+  - Self-Hosting
+  - Home-IOT
+  - Cycling
+  - Music
+
+SideQuests:
+  - KNVB verenigingsscheidsrechter (2009)
+  - Volunteer at Astrant Ede
+  - Webdeveloper for mom's church
+  - Once made a DIY ebike
+  - This website runs from my utility closet

@@ -1,0 +1,29 @@
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+enableEmoji = true
+
+theme = "almeida-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = "https://royvan.lierop.zip"
+title = "Roy van Lierop | Resume"
+#googleAnalytics = ""
+
+[params]
+enableMetaTags = true
+colorLight = "#fff"
+colorDark = "#666"
+colorPageBackground = "#ddd"
+colorPrimary = "#7CB143"
+colorSecondary = "#aaa"
+colorIconPrimary = "#fff"
+colorIconBackground = "#399E65"
+colorRightColumnBackground = "#f5f5f5"
+colorRightColumnHeadingText = "#666"
+colorRightColumnBodyText = "#666"
+colorRightColumnIconPrimary = "#fff"
+colorRightColumnIconBackground = "#399E65"
+pages = 2
+# Set this param to 'true' to swap the bar positions
+swapColumns = false

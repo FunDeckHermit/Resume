@@ -1,0 +1,14 @@
+{{ if .SideQuests }}
+<div class="sideSection">
+    <div class="sideSection__heading">
+        <h2 class="sideSection__title">Side Quests</h2>
+    </div>
+    <div class="sideSection__content">
+        <ul >
+            {{ range .SideQuests }}
+            <li style="list-style-type:disc;">{{ . | safeHTML }}</li>
+            {{ end }}
+        </ul>
+    </div>
+</div>
+{{ end }}
