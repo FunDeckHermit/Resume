@@ -6,7 +6,7 @@ enableEmoji = true
 theme = "almeida-cv"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
-baseURL = "https://royvan.lierop.zip"
+baseURL = "https://lierop.cv"
 title = "Roy van Lierop | Resume"
 #googleAnalytics = ""
 
